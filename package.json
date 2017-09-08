@@ -2,5 +2,8 @@
   "name": "yarn_sample",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "optipng-bin": "^4.0.0"
+  }
 }
